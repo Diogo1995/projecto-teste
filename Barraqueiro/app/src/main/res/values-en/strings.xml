@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Barraqueiro</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Login</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_username">This username address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email completions."</string>
+    <string name="recover_password"><a href="http://google.com">Recover password</a></string> <!-- ALTERAR!!! GERAR NOVA PW!!! TODO-->
+    <string name="site_barraqueiro"><a href="http://barraqueirotransportes.pt">www.barraqueirotransportes.pt</a></string>
+
+    <!-- Strings related to menu -->
+    <string name="welcome">Hello</string>
+    <string name="fill_up_button">Fill Up</string>
+    <string name="stats_button">Statistics</string>
+    <string name="maps_button">Maps</string>
+    <string name="contacts_button">Contacts</string>
+    <string name="settings_button">Settings</string>
+    <string name="log_out_button">Log Out</string>
+
+    <!-- Strings related to fill up -->
+    <string name="fill_up">Fill Up</string>
+
+    <!-- Strings related to stats -->
+    <string name="stats">Statistics</string>
+
+    <!-- Strings related to maps -->
+    <string name="maps">Maps</string>
+
+    <!-- Strings related to contacts -->
+    <string name="contacts">Contacts</string>
+
+    <!-- Strings related to settings-->
+    <string name="settings">Settings</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="km_button">Kilometers</string>
+    <string name="mile_button">Miles</string>
+    <string name="l_button">Liters</string>
+    <string name="gal_button">US Gallons</string>
+    <string name="distance_preferred_units">Preferred Units - Distance</string>
+    <string name="volume_preferred_units">Preferred Units - Volume</string>
+    <string name="language">Language</string>
+    <string-array name="language_entries">
+        <item>Portuguese</item>
+        <item>Spanish</item>
+        <item>English</item>
+    </string-array>
+</resources>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Barraqueiro</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Nome de utilizador</string>
+    <string name="prompt_password">Palavra-passe</string>
+    <string name="action_sign_in">Entrar</string>
+    <string name="action_sign_in_short">Entrar</string>
+    <string name="error_invalid_username">Nome de utilizador inválido</string>
+    <string name="error_invalid_password">Palavra-passe muito curta</string>
+    <string name="error_incorrect_password">Palavra-passe incorrecta</string>
+    <string name="error_field_required">Campo de preenchimento obrigatório</string>
+    <string name="permission_rationale">"É necessário permissão de acesso aos contactos"</string>
+    <string name="recover_password"><a href="http://google.com">Recuperar palavra-passe</a></string> <!-- ALTERAR!!! GERAR NOVA PW!!! TODO-->
+    <string name="site_barraqueiro"><a href="http://barraqueirotransportes.pt">www.barraqueirotransportes.pt</a></string>
+
+    <!-- Strings related to menu -->
+    <string name="welcome">Olá</string>
+    <string name="fill_up_button">Abastecimento</string>
+    <string name="stats_button">Estatisticas</string>
+    <string name="maps_button">Mapas</string>
+    <string name="contacts_button">Contactos</string>
+    <string name="settings_button">Definições</string>
+    <string name="log_out_button">Sair</string>
+
+    <!-- Strings related to fill up -->
+    <string name="fill_up">Abastecimento</string>
+
+    <!-- Strings related to stats -->
+    <string name="stats">Estatísticas</string>
+
+    <!-- Strings related to maps -->
+    <string name="maps">Mapas</string>
+
+    <!-- Strings related to contacts -->
+    <string name="contacts">Contactos</string>
+
+    <!-- Strings related to settings -->
+    <string name="settings">Definições</string>
+    <string name="dark_mode">Modo Escuro</string>
+    <string name="km_button">Quilómetros</string>
+    <string name="mile_button">Milhas</string>
+    <string name="l_button">Litros</string>
+    <string name="gal_button">Galões EUA</string>
+    <string name="distance_preferred_units">Unidades Preferidas - Distância</string>
+    <string name="volume_preferred_units">Unidades Preferidas - Volume</string>
+    <string name="language">Idioma</string>
+    <string-array name="language_entries">
+        <item>Português</item>
+        <item>Espanhol</item>
+        <item>Inglês</item>
+    </string-array>
+</resources>

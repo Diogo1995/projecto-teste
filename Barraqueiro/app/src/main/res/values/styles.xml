@@ -1,0 +1,27 @@
+<resources>
+    <style name="AppTheme.Light" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/blue</item>
+        <item name="colorPrimaryDark">@color/logoBlue</item>
+        <item name="colorAccent">@color/darkBlue</item>
+
+        <item name="backgroundColor">@color/lightGray</item>
+        <item name="textColor">@color/darkGray</item>
+        <item name="pageTitleColor">@color/logoBlue</item>
+        <item name="subTitleColor">@color/blue</item>
+        <item name="buttonColor">@color/logoBlue</item>
+        <item name="buttonTextColor">@color/lightGray</item>
+    </style>
+
+    <style name="AppTheme.Dark" parent="Theme.AppCompat.NoActionBar">
+        <item name="colorPrimary">@color/yellow</item>
+        <item name="colorPrimaryDark">@color/logoBlue</item>
+        <item name="colorAccent">@color/lightBlue</item>
+
+        <item name="backgroundColor">@color/darkGray</item>
+        <item name="textColor">@color/lightGray</item>
+        <item name="pageTitleColor">@color/lightBlue</item>
+        <item name="subTitleColor">@color/yellow</item>
+        <item name="buttonColor">@color/logoBlue</item>
+        <item name="buttonTextColor">@color/lightGray</item>
+    </style>
+</resources>
